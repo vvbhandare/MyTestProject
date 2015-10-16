@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="/Users/Vishal-TS/Downloads/jackson-annotations-2.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/bridj-0.6.2.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/google-api-services-youtubeanalytics-v1beta1-rev23-1.13.2-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/google-collections.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Vishal-TS/Downloads/google-http-client-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-mapper-asl.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Vishal-TS/Downloads/google-http-client-jackson2-1.11.0-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Vishal-TS/Downloads/com.fasterxml.jackson.core.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Vishal-TS/Downloads/google-api-client-1.19.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Vishal-TS/Downloads/google-oauth-client-1.16.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/google-oauth-client-java6-1.11.0-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.mortbay.jetty.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.mortbay.jetty.util.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/google-oauth-client-jetty-1.16.0-rc.jar"/>
+	<classpathentry kind="lib" path="/Users/Vishal-TS/Downloads/google-api-services-youtube-v3-rev137-1.20.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Vishal-TS/Android Practice/GXuggler/lib/commons-cli.jar"/>
+	<classpathentry kind="lib" path="/Users/Vishal-TS/Android Practice/GXuggler/lib/logback-classic.jar"/>
+	<classpathentry kind="lib" path="/Users/Vishal-TS/Android Practice/GXuggler/lib/logback-core.jar"/>
+	<classpathentry kind="lib" path="/Users/Vishal-TS/Android Practice/GXuggler/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="/Users/Vishal-TS/Android Practice/GXuggler/lib/xuggle-xuggler-5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Vishal-TS/Downloads/webcam-capture-0.3.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
